@@ -1,5 +1,4 @@
-# MechaCar_Statistical_Analysis
-Module 16 Challenge
+# MechaCar_Statistical_Analysis - Module 16 Challenge
 
 
 ## Deliverable 1
@@ -27,7 +26,7 @@ Module 16 Challenge
 ## Deliverable 3
 ## T-Tests on Suspension Coils
 
-
+- Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary
 
 ## Deliverable 4
 ## Study Design: MechaCar vs Competition
