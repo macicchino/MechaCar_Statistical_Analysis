@@ -6,8 +6,7 @@ Module 16 Challenge
 ## Linear Regression to Predict MPG
 
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-
--- The 
+  - The 
 
 - Is the slope of the linear model considered to be zero? Why or why not?
 
