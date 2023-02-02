@@ -31,11 +31,14 @@
 
 - Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary
 
-  - When taking a t-test of the sample (including all lots) against a population mean of 1500. We find that the p-value is 0.06028 which is technically out of our assumed significane level of 0.05 percent. 
+  - When taking a t-test of the sample (including all lots) against a population mean of 1500. We find that the p-value is 0.06028 which is technically out of our assumed significane level of 0.05 percent. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
 
 ![dev_3.1](images/Dev-3.1_T-Test.png "Dev 3.1 Image")
 
-  - When taking a t-test of each lot sample against a population mean of 1500. We find that the p-value for Lot1 is xxx. We find that the p-value for Lot2 is xxx. We find that the p-value for Lot3 is xxx. 
+  - When taking a t-test of each lot sample against a population mean of 1500. 
+  - We find that the p-value for Lot1 is 1. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
+  - We find that the p-value for Lot2 is 0.61. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
+  - We find that the p-value for Lot3 is 0.04. Therefore, we have sufficient evidence to reject the null hypothesis, and we would state that the two means are not statistically similar.
 
 ![dev_3.2](images/Dev-3.2_T-Test-by-Lot.png "Dev 3.2 Image")
 
