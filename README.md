@@ -47,12 +47,16 @@
 
 - Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 
-- In your description, address the following questions:
+I think comparing cost data against variables MPG, Horse Power, and Safety Rating for MechaCar vechicals could be a useful added value comparison to the competitions vechicles. 
 
-  - What metric or metrics are you going to test?
-    - The 
-  - What is the null hypothesis or alternative hypothesis?
+In your description, address the following questions:
+- What metric or metrics are you going to test?
+  - I want to test cost data against variables MPG, Horse Power, and Safety Rating.
+- What is the null hypothesis or alternative hypothesis?
+  - The null hypothesis would be that MechaCare Costs have no significant relationship with any of the variables MPG, Horse Power, and Safety Rating. To reject the null, we would need to find an impace on price from one of the tested variables. 
+- What statistical test would you use to test the hypothesis? And why?
+  - I would run a multiple linear regression on all the variables to test if any of the variables have a statiscial impact on costs. This way we can see how MechaCar costs compare to competition and could be an important selling point. For example, if costs doesn't increase with a high saftey rating while costs in competiton cars this is the case. Then MechaCar could advertise that they provide safe vechicals but don't 'charge more' for safety compared to the competition.  
 
-  - What statistical test would you use to test the hypothesis? And why?
+- What data is needed to run the statistical test?
 
-  - What data is needed to run the statistical test?
+I would need cost(Selling Price) data as well as the variables MPG, Horse Power, and Safety Rating for MechaCar vechicals. I would need the equilivent data for the competition. Ideally, a full population dataset to compare to. 
