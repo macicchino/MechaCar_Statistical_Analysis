@@ -14,7 +14,7 @@
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
   - The...
 
-
+![dev_1](images/Dev-1_Predict-MPG.png "Dev 1 Image")
 
 ## Deliverable 2
 ## Summary Statistics on Suspension Coils
